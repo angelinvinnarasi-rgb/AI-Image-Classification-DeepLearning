@@ -1,0 +1,25 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+dataset/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# CIFAR-10 downloaded dataset
+dataset/cifar-10-batches-py/
+dataset/cifar-10-python.tar.gz
+dataset/cifar-10-python/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
